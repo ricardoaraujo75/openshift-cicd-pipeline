@@ -252,9 +252,9 @@ id: cannot find name for user ID 1000680000
 
 ## Referências
 
-- Container Native Pipelines - Infrastructure
+- Container Native Pipelines - Infrastructure <br>
 https://gitlab.consulting.redhat.com/consulting-brazil/applicationpractice/quick-starts/oqss/cnp/openshift-cicd-infra
-- Tekton-demo
+- Tekton-demo <br>
  https://github.com/redhat-cop/helm-charts/tree/master/charts/tekton-demo
-- CI/CD Demo with Tekton and Argo CD on OpenShift
+- CI/CD Demo with Tekton and Argo CD on OpenShift <br>
 https://github.com/siamaksade/openshift-cicd-demo
